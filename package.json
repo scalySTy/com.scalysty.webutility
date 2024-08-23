@@ -1,0 +1,11 @@
+{
+    "name": "com.scalysty.webutility",
+    "version": "1.0.0",
+    "displayName": "Web Utility",
+    "unity": "2020.3",
+    "description": "Tools that fix common issues in Unity WebGL export.",
+    "license": "MIT",
+    "author":{
+        "name" : "scalySTy"
+    }
+  }
